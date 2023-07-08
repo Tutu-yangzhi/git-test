@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("third commit");
         System.out.println("third commit");
         System.out.println("push test https");
+        System.out.println("pull test https");
     }
 }
